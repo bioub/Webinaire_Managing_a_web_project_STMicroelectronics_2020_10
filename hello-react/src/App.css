@@ -1,0 +1,7 @@
+ul {
+  list-style: square;
+}
+
+ul li:nth-child(odd) {
+  background-color: lightblue;
+}
